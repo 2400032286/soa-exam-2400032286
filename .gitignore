@@ -1,0 +1,12 @@
+# Ignore everything in the workspace
+/*
+
+# Allow the Git ignore file
+!/.gitignore
+
+# Allow only the two projects
+!/EurekaServer/
+!/CrudServiceProject/
+
+# Ignore Eclipse metadata
+.metadata/
